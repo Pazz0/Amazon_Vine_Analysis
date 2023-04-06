@@ -1,0 +1,4 @@
+# ignore extra csvs from postgres
+customers_table.csv
+products_table.csv
+review_id_table.csv
